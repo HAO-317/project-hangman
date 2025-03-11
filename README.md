@@ -5,4 +5,5 @@
 
 HangmanGame_v1.15
 
+Pls enjoy this mini game ;) 
 https://hao-317.github.io/project-hangman/
