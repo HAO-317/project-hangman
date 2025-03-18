@@ -3,6 +3,8 @@
 - a mini Game builded with typescript.
 - the latest version as a single HTML without extra
 
+![screenshot] (screenshoot.png)
+
 HangmanGame_v1.15
 
 Pls enjoy this mini game ;) 
